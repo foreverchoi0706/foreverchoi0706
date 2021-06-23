@@ -13,7 +13,7 @@
 ![GIT](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GITHUB](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![JENKINS](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![VSCODE](https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VSCODE](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Dev Ops
 ![DOCKER](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
