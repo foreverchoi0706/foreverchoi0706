@@ -5,7 +5,6 @@
 ![TYPESCRIPT](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
 ![REACT](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![REDUX](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) 
-![MARKDDOWN](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
 ![POSTGRESQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 
