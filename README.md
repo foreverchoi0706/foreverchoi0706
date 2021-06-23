@@ -4,7 +4,9 @@
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) 
 ![TYPESCRIPT](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
 ![REACT](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![REDUX](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) 
+![REDUX](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![EXPRESS](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white) 
+![NODE](https://img.shields.io/badge/node-339933?style=for-the-badge&logo=node.js&logoColor=white) 
 ![POSTGRESQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 ### Dev Tools
