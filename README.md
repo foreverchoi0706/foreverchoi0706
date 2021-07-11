@@ -9,6 +9,7 @@
 ![EXPRESS](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white) 
 ![NODE](https://img.shields.io/badge/node-339933?style=for-the-badge&logo=node.js&logoColor=white) 
 ![POSTGRESQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
+![JEST](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white) 
 
 ### Dev Tools
 ![GIT](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) 
