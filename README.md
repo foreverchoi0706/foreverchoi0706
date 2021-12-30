@@ -1,19 +1,13 @@
 ### Dev Skills
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) 
 ![TYPESCRIPT](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
 ![REACT.js](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![NEXT.js](https://img.shields.io/badge/next.js-white?style=for-the-badge&logo=next.js&logoColor=black) 
 ![REDUX](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![EXPRESS](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white) 
 ![NODE](https://img.shields.io/badge/node-339933?style=for-the-badge&logo=node.js&logoColor=white) 
-![POSTGRESQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 ### Dev Tools
 ![GIT](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GITHUB](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) 
-![JENKINS](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Dev Ops
